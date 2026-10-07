@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HUGO BOSS | Gate Mall Client Appointments</title>
+<meta name="description" content="Choose the looks you like and book a private appointment at our Gate Mall store.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="hdwrap" id="hdwrap">
+  <div class="top">Private client appointments &nbsp;&middot;&nbsp; Gate Mall</div>
+  <header class="hd">
+    <nav class="nav"><a href="#looks">Looks</a><a href="#collection">Collection</a><a href="#how">How it works</a><a href="#visit">Visit</a></nav>
+    <a class="wm" href="#top">HUGO BOSS</a>
+    <button class="ap" data-open>Appointment <b id="cnt">0</b></button>
+  </header>
+</div>
+
+<section class="hero" id="top">
+  <div class="hero-in">
+    <p class="eyebrow lt">Gate Mall &middot; By appointment</p>
+    <h1>Your look,<br>ready when you arrive.</h1>
+    <p class="sub">Choose the pieces our team has styled for you. We prepare them in your size and welcome you for a private fitting.</p>
+    <div class="cta"><a class="btn light" href="#looks">Explore the looks</a><button class="btn ghost" data-open>Book appointment</button></div>
+  </div>
+  <a class="scroll" href="#feature">Scroll</a>
+</section>
+
+<section class="strip">
+  <div><h4>Styled by our team</h4><p>Complete looks created in the shop from pieces in stock today.</p></div>
+  <div><h4>Prepared in your size</h4><p>Your selection is ready to try the moment you arrive.</p></div>
+  <div><h4>A private fitting</h4><p>Take your time with our team and decide in the store.</p></div>
+</section>
+
+<section class="sec" id="feature"></section>
+
+<section class="sec soft" id="looks">
+  <div class="wrap">
+    <div class="sh reveal"><p class="eyebrow">Curated by our team</p><h2>This week's looks</h2></div>
+    <div class="chips" id="filters"></div>
+    <div class="grid" id="grid"></div>
+  </div>
+</section>
+
+<section class="sec" id="collection">
+  <div class="wrap">
+    <div class="sh reveal"><p class="eyebrow">Menswear &middot; Gate Mall</p><h2>Shop the collection</h2><p class="lead">Reserve any piece, in any colour and size, to try during your visit.</p></div>
+    <div class="cbar"><div class="chips pchips" id="pfilters"></div><span class="pcount" id="pcount"></span></div>
+    <div class="pgrid" id="pgrid"></div>
+  </div>
+</section>
+
+<section class="sec dk" id="how">
+  <div class="wrap">
+    <div class="sh reveal"><p class="eyebrow lt">Simple and personal</p><h2>How it works</h2></div>
+    <div class="steps">
+      <div class="reveal"><span class="n">01</span><h4>Choose</h4><p>Select a full look or individual pieces you like.</p></div>
+      <div class="reveal"><span class="n">02</span><h4>Book</h4><p>Pick a day and time that suits you.</p></div>
+      <div class="reveal"><span class="n">03</span><h4>We prepare</h4><p>Everything is ready in your size when you arrive.</p></div>
+      <div class="reveal"><span class="n">04</span><h4>Try and decide</h4><p>Fit, adjust and finalize with our team.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="visit">
+  <div class="wrap visit">
+    <div class="photo reveal"><span>Store photo</span></div>
+    <div class="reveal">
+      <p class="eyebrow">Visit us</p><h2>HUGO BOSS<br>Gate Mall</h2>
+      <p class="lead">Every appointment is confirmed personally by our team, who will prepare your pieces and your fitting room.</p>
+      <ul class="pl"><li><span>Pieces prepared in your size</span></li><li><span>Confirmed by phone or WhatsApp</span></li><li><span>A personal fitting with our team</span></li></ul>
+      <button class="btn" data-open>Book appointment</button>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wm sm">HUGO BOSS</div>
+  <p>By requesting an appointment you agree that the Gate Mall team may contact you about your visit. We collect only your name and phone number.</p>
+  <p class="proto">Prototype for internal review &middot; sample products and data only</p>
+</footer>
+
+<div class="scrim" data-close></div>
+<aside class="drawer" id="drawer" aria-label="Your appointment">
+  <div class="dh"><h3>Your appointment</h3><button class="x" data-close aria-label="Close">&times;</button></div>
+  <div id="dbody"></div>
+  <div class="df" id="dfoot"></div>
+</aside>
+<div class="modal" id="modal"></div>
+<script src="js/app.js"></script>
+</body>
+</html>

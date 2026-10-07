@@ -1,0 +1,938 @@
+[
+ {
+  "id": 1,
+  "cat": "T-Shirts",
+  "c": "Shirts",
+  "n": "Cotton crew-neck tee",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 2,
+  "cat": "T-Shirts",
+  "c": "Shirts",
+  "n": "Logo-print tee",
+  "cols": [
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Sand",
+    "hex": "#c8b99a"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 3,
+  "cat": "T-Shirts",
+  "c": "Shirts",
+  "n": "Stretch-cotton V-neck tee",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Charcoal",
+    "hex": "#34363a"
+   },
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 4,
+  "cat": "Polos",
+  "c": "Shirts",
+  "n": "Cotton piqu\u00e9 polo",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   },
+   {
+    "n": "Green",
+    "hex": "#2f5d46"
+   },
+   {
+    "n": "Burgundy",
+    "hex": "#7a1f2b"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 5,
+  "cat": "Polos",
+  "c": "Shirts",
+  "n": "Long-sleeve polo",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 6,
+  "cat": "Shirts",
+  "c": "Shirts",
+  "n": "Slim-fit business shirt",
+  "cols": [
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   },
+   {
+    "n": "Light blue",
+    "hex": "#a9c1d9"
+   }
+  ],
+  "s": [
+   "38",
+   "39",
+   "40",
+   "41",
+   "42",
+   "43",
+   "44"
+  ]
+ },
+ {
+  "id": 7,
+  "cat": "Shirts",
+  "c": "Shirts",
+  "n": "Oxford shirt",
+  "cols": [
+   {
+    "n": "Light blue",
+    "hex": "#a9c1d9"
+   },
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   },
+   {
+    "n": "Pink",
+    "hex": "#e6b8c0"
+   }
+  ],
+  "s": [
+   "38",
+   "39",
+   "40",
+   "41",
+   "42",
+   "43",
+   "44"
+  ]
+ },
+ {
+  "id": 8,
+  "cat": "Shirts",
+  "c": "Shirts",
+  "n": "Linen summer shirt",
+  "cols": [
+   {
+    "n": "Sand",
+    "hex": "#c8b99a"
+   },
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 9,
+  "cat": "Knitwear",
+  "c": "Knitwear",
+  "n": "Merino crew-neck knit",
+  "cols": [
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Camel",
+    "hex": "#b88c5a"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 10,
+  "cat": "Knitwear",
+  "c": "Knitwear",
+  "n": "Quarter-zip knit",
+  "cols": [
+   {
+    "n": "Charcoal",
+    "hex": "#34363a"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 11,
+  "cat": "Knitwear",
+  "c": "Knitwear",
+  "n": "Cotton cardigan",
+  "cols": [
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   },
+   {
+    "n": "Olive",
+    "hex": "#4a5240"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 12,
+  "cat": "Knitwear",
+  "c": "Knitwear",
+  "n": "Logo hoodie",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 13,
+  "cat": "Jackets & Coats",
+  "c": "Jackets",
+  "n": "Wool blazer",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   },
+   {
+    "n": "Charcoal",
+    "hex": "#34363a"
+   }
+  ],
+  "s": [
+   "46",
+   "48",
+   "50",
+   "52",
+   "54",
+   "56",
+   "58"
+  ]
+ },
+ {
+  "id": 14,
+  "cat": "Jackets & Coats",
+  "c": "Jackets",
+  "n": "Bomber jacket",
+  "cols": [
+   {
+    "n": "Olive",
+    "hex": "#4a5240"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 15,
+  "cat": "Jackets & Coats",
+  "c": "Jackets",
+  "n": "Wool overcoat",
+  "cols": [
+   {
+    "n": "Camel",
+    "hex": "#b88c5a"
+   },
+   {
+    "n": "Charcoal",
+    "hex": "#34363a"
+   }
+  ],
+  "s": [
+   "46",
+   "48",
+   "50",
+   "52",
+   "54",
+   "56",
+   "58"
+  ]
+ },
+ {
+  "id": 16,
+  "cat": "Jackets & Coats",
+  "c": "Jackets",
+  "n": "Quilted jacket",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Olive",
+    "hex": "#4a5240"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 17,
+  "cat": "Suits & Tailoring",
+  "c": "Suits",
+  "n": "Two-piece wool suit",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Charcoal",
+    "hex": "#34363a"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "46",
+   "48",
+   "50",
+   "52",
+   "54",
+   "56",
+   "58"
+  ]
+ },
+ {
+  "id": 18,
+  "cat": "Suits & Tailoring",
+  "c": "Suits",
+  "n": "Slim-fit travel suit",
+  "cols": [
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   }
+  ],
+  "s": [
+   "46",
+   "48",
+   "50",
+   "52",
+   "54",
+   "56",
+   "58"
+  ]
+ },
+ {
+  "id": 19,
+  "cat": "Suits & Tailoring",
+  "c": "Suits",
+  "n": "Evening dinner jacket",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "46",
+   "48",
+   "50",
+   "52",
+   "54",
+   "56",
+   "58"
+  ]
+ },
+ {
+  "id": 20,
+  "cat": "Trousers",
+  "c": "Trousers",
+  "n": "Tailored wool trousers",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "30",
+   "32",
+   "34",
+   "36",
+   "38",
+   "40"
+  ]
+ },
+ {
+  "id": 21,
+  "cat": "Trousers",
+  "c": "Trousers",
+  "n": "Stretch chinos",
+  "cols": [
+   {
+    "n": "Stone",
+    "hex": "#b9a58a"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Olive",
+    "hex": "#4a5240"
+   }
+  ],
+  "s": [
+   "30",
+   "32",
+   "34",
+   "36",
+   "38",
+   "40"
+  ]
+ },
+ {
+  "id": 22,
+  "cat": "Jeans",
+  "c": "Trousers",
+  "n": "Slim-fit jeans",
+  "cols": [
+   {
+    "n": "Indigo",
+    "hex": "#2b3a55"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Light wash",
+    "hex": "#7f9bb8"
+   }
+  ],
+  "s": [
+   "30",
+   "32",
+   "34",
+   "36",
+   "38",
+   "40"
+  ]
+ },
+ {
+  "id": 23,
+  "cat": "Jeans",
+  "c": "Trousers",
+  "n": "Regular-fit jeans",
+  "cols": [
+   {
+    "n": "Indigo",
+    "hex": "#2b3a55"
+   },
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   }
+  ],
+  "s": [
+   "30",
+   "32",
+   "34",
+   "36",
+   "38",
+   "40"
+  ]
+ },
+ {
+  "id": 24,
+  "cat": "Shorts",
+  "c": "Shorts",
+  "n": "Chino shorts",
+  "cols": [
+   {
+    "n": "Stone",
+    "hex": "#b9a58a"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   }
+  ],
+  "s": [
+   "30",
+   "32",
+   "34",
+   "36",
+   "38",
+   "40"
+  ]
+ },
+ {
+  "id": 25,
+  "cat": "Shorts",
+  "c": "Shorts",
+  "n": "Quick-dry swim shorts",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Green",
+    "hex": "#2f5d46"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "S",
+   "M",
+   "L",
+   "XL",
+   "XXL"
+  ]
+ },
+ {
+  "id": 26,
+  "cat": "Shoes",
+  "c": "Shoes",
+  "n": "Leather oxford shoes",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Brown",
+    "hex": "#4a3426"
+   }
+  ],
+  "s": [
+   "40",
+   "41",
+   "42",
+   "43",
+   "44",
+   "45",
+   "46"
+  ]
+ },
+ {
+  "id": 27,
+  "cat": "Shoes",
+  "c": "Shoes",
+  "n": "Suede loafers",
+  "cols": [
+   {
+    "n": "Brown",
+    "hex": "#4a3426"
+   },
+   {
+    "n": "Tan",
+    "hex": "#a8794a"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "40",
+   "41",
+   "42",
+   "43",
+   "44",
+   "45",
+   "46"
+  ]
+ },
+ {
+  "id": 28,
+  "cat": "Shoes",
+  "c": "Shoes",
+  "n": "Leather sneakers",
+  "cols": [
+   {
+    "n": "White",
+    "hex": "#f1f1f1"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   }
+  ],
+  "s": [
+   "40",
+   "41",
+   "42",
+   "43",
+   "44",
+   "45",
+   "46"
+  ]
+ },
+ {
+  "id": 29,
+  "cat": "Shoes",
+  "c": "Shoes",
+  "n": "Leather boots",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Brown",
+    "hex": "#4a3426"
+   }
+  ],
+  "s": [
+   "40",
+   "41",
+   "42",
+   "43",
+   "44",
+   "45",
+   "46"
+  ]
+ },
+ {
+  "id": 30,
+  "cat": "Belts & Ties",
+  "c": "Belts",
+  "n": "Leather belt",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Brown",
+    "hex": "#4a3426"
+   }
+  ],
+  "s": [
+   "85",
+   "90",
+   "95",
+   "100",
+   "105",
+   "110"
+  ]
+ },
+ {
+  "id": 31,
+  "cat": "Belts & Ties",
+  "c": "Belts",
+  "n": "Reversible belt",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Brown",
+    "hex": "#4a3426"
+   }
+  ],
+  "s": [
+   "85",
+   "90",
+   "95",
+   "100",
+   "105",
+   "110"
+  ]
+ },
+ {
+  "id": 32,
+  "cat": "Belts & Ties",
+  "c": "Ties",
+  "n": "Silk tie",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Burgundy",
+    "hex": "#7a1f2b"
+   },
+   {
+    "n": "Silver",
+    "hex": "#b7b9bd"
+   }
+  ],
+  "s": [
+   "One size"
+  ]
+ },
+ {
+  "id": 33,
+  "cat": "Accessories",
+  "c": "Bags",
+  "n": "Leather wallet",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Brown",
+    "hex": "#4a3426"
+   }
+  ],
+  "s": [
+   "One size"
+  ]
+ },
+ {
+  "id": 34,
+  "cat": "Accessories",
+  "c": "Bags",
+  "n": "Leather card holder",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   }
+  ],
+  "s": [
+   "One size"
+  ]
+ },
+ {
+  "id": 35,
+  "cat": "Accessories",
+  "c": "Bags",
+  "n": "Leather work bag",
+  "cols": [
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Brown",
+    "hex": "#4a3426"
+   }
+  ],
+  "s": [
+   "One size"
+  ]
+ },
+ {
+  "id": 36,
+  "cat": "Accessories",
+  "c": "Accessories",
+  "n": "Wool scarf",
+  "cols": [
+   {
+    "n": "Grey",
+    "hex": "#8a8f98"
+   },
+   {
+    "n": "Camel",
+    "hex": "#b88c5a"
+   },
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   }
+  ],
+  "s": [
+   "One size"
+  ]
+ },
+ {
+  "id": 37,
+  "cat": "Accessories",
+  "c": "Accessories",
+  "n": "Logo cap",
+  "cols": [
+   {
+    "n": "Navy",
+    "hex": "#1f2a44"
+   },
+   {
+    "n": "Black",
+    "hex": "#141414"
+   },
+   {
+    "n": "Cream",
+    "hex": "#e4dccb"
+   }
+  ],
+  "s": [
+   "One size"
+  ]
+ }
+]
